@@ -1,0 +1,48 @@
+C:\Users\bruno\source\repos\ProjetoEscolar\ProjetoEscolar\obj\Debug\net5.0\ProjetoEscolar.csproj.AssemblyReference.cache
+C:\Users\bruno\source\repos\ProjetoEscolar\ProjetoEscolar\obj\Debug\net5.0\ProjetoEscolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\source\repos\ProjetoEscolar\ProjetoEscolar\obj\Debug\net5.0\ProjetoEscolar.AssemblyInfoInputs.cache
+C:\Users\bruno\source\repos\ProjetoEscolar\ProjetoEscolar\obj\Debug\net5.0\ProjetoEscolar.AssemblyInfo.cs
+C:\Users\bruno\source\repos\ProjetoEscolar\ProjetoEscolar\obj\Debug\net5.0\ProjetoEscolar.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\ProjetoEscolar\ProjetoEscolar\bin\Debug\net5.0\ProjetoEscolar.exe
+C:\Users\bruno\source\repos\ProjetoEscolar\ProjetoEscolar\bin\Debug\net5.0\ProjetoEscolar.deps.json
+C:\Users\bruno\source\repos\ProjetoEscolar\ProjetoEscolar\bin\Debug\net5.0\ProjetoEscolar.runtimeconfig.json
+C:\Users\bruno\source\repos\ProjetoEscolar\ProjetoEscolar\bin\Debug\net5.0\ProjetoEscolar.runtimeconfig.dev.json
+C:\Users\bruno\source\repos\ProjetoEscolar\ProjetoEscolar\bin\Debug\net5.0\ProjetoEscolar.dll
+C:\Users\bruno\source\repos\ProjetoEscolar\ProjetoEscolar\bin\Debug\net5.0\ref\ProjetoEscolar.dll
+C:\Users\bruno\source\repos\ProjetoEscolar\ProjetoEscolar\bin\Debug\net5.0\ProjetoEscolar.pdb
+C:\Users\bruno\source\repos\ProjetoEscolar\ProjetoEscolar\obj\Debug\net5.0\ProjetoEscolar.dll
+C:\Users\bruno\source\repos\ProjetoEscolar\ProjetoEscolar\obj\Debug\net5.0\ref\ProjetoEscolar.dll
+C:\Users\bruno\source\repos\ProjetoEscolar\ProjetoEscolar\obj\Debug\net5.0\ProjetoEscolar.pdb
+C:\Users\bruno\source\repos\ProjetoEscolar\ProjetoEscolar\obj\Debug\net5.0\ProjetoEscolar.genruntimeconfig.cache
+C:\Users\Junior\source\repos\NewCrudAluno-main\ProjetoEscolar\obj\Debug\net5.0\ProjetoEscolar.csproj.AssemblyReference.cache
+C:\Users\Junior\source\repos\NewCrudAluno-main\ProjetoEscolar\obj\Debug\net5.0\ProjetoEscolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Junior\source\repos\NewCrudAluno-main\ProjetoEscolar\obj\Debug\net5.0\ProjetoEscolar.AssemblyInfoInputs.cache
+C:\Users\Junior\source\repos\NewCrudAluno-main\ProjetoEscolar\obj\Debug\net5.0\ProjetoEscolar.AssemblyInfo.cs
+C:\Users\Junior\source\repos\NewCrudAluno-main\ProjetoEscolar\obj\Debug\net5.0\ProjetoEscolar.csproj.CoreCompileInputs.cache
+C:\Users\Junior\source\repos\NewCrudAluno-main\ProjetoEscolar\obj\Debug\net5.0\ProjetoEscolar.dll
+C:\Users\Junior\source\repos\NewCrudAluno-main\ProjetoEscolar\obj\Debug\net5.0\ref\ProjetoEscolar.dll
+C:\Users\Junior\source\repos\NewCrudAluno-main\ProjetoEscolar\obj\Debug\net5.0\ProjetoEscolar.pdb
+C:\Users\Junior\source\repos\NewCrudAluno-main\ProjetoEscolar\bin\Debug\net5.0\ProjetoEscolar.exe
+C:\Users\Junior\source\repos\NewCrudAluno-main\ProjetoEscolar\bin\Debug\net5.0\ProjetoEscolar.deps.json
+C:\Users\Junior\source\repos\NewCrudAluno-main\ProjetoEscolar\bin\Debug\net5.0\ProjetoEscolar.runtimeconfig.json
+C:\Users\Junior\source\repos\NewCrudAluno-main\ProjetoEscolar\bin\Debug\net5.0\ProjetoEscolar.runtimeconfig.dev.json
+C:\Users\Junior\source\repos\NewCrudAluno-main\ProjetoEscolar\bin\Debug\net5.0\ProjetoEscolar.dll
+C:\Users\Junior\source\repos\NewCrudAluno-main\ProjetoEscolar\bin\Debug\net5.0\ref\ProjetoEscolar.dll
+C:\Users\Junior\source\repos\NewCrudAluno-main\ProjetoEscolar\bin\Debug\net5.0\ProjetoEscolar.pdb
+C:\Users\Junior\source\repos\NewCrudAluno-main\ProjetoEscolar\obj\Debug\net5.0\ProjetoEscolar.genruntimeconfig.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\NewCrudAluno-main\ProjetoEscolar\obj\Debug\net5.0\ProjetoEscolar.dll
+C:\Users\bruno\OneDrive\Área de Trabalho\NewCrudAluno-main\ProjetoEscolar\obj\Debug\net5.0\ref\ProjetoEscolar.dll
+C:\Users\bruno\OneDrive\Área de Trabalho\NewCrudAluno-main\ProjetoEscolar\obj\Debug\net5.0\ProjetoEscolar.pdb
+C:\Users\bruno\OneDrive\Área de Trabalho\NewCrudAluno-main\ProjetoEscolar\bin\Debug\net5.0\ProjetoEscolar.exe
+C:\Users\bruno\OneDrive\Área de Trabalho\NewCrudAluno-main\ProjetoEscolar\bin\Debug\net5.0\ProjetoEscolar.deps.json
+C:\Users\bruno\OneDrive\Área de Trabalho\NewCrudAluno-main\ProjetoEscolar\bin\Debug\net5.0\ProjetoEscolar.runtimeconfig.json
+C:\Users\bruno\OneDrive\Área de Trabalho\NewCrudAluno-main\ProjetoEscolar\bin\Debug\net5.0\ProjetoEscolar.runtimeconfig.dev.json
+C:\Users\bruno\OneDrive\Área de Trabalho\NewCrudAluno-main\ProjetoEscolar\bin\Debug\net5.0\ProjetoEscolar.dll
+C:\Users\bruno\OneDrive\Área de Trabalho\NewCrudAluno-main\ProjetoEscolar\bin\Debug\net5.0\ref\ProjetoEscolar.dll
+C:\Users\bruno\OneDrive\Área de Trabalho\NewCrudAluno-main\ProjetoEscolar\bin\Debug\net5.0\ProjetoEscolar.pdb
+C:\Users\bruno\OneDrive\Área de Trabalho\NewCrudAluno-main\ProjetoEscolar\obj\Debug\net5.0\ProjetoEscolar.csproj.AssemblyReference.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\NewCrudAluno-main\ProjetoEscolar\obj\Debug\net5.0\ProjetoEscolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\OneDrive\Área de Trabalho\NewCrudAluno-main\ProjetoEscolar\obj\Debug\net5.0\ProjetoEscolar.AssemblyInfoInputs.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\NewCrudAluno-main\ProjetoEscolar\obj\Debug\net5.0\ProjetoEscolar.AssemblyInfo.cs
+C:\Users\bruno\OneDrive\Área de Trabalho\NewCrudAluno-main\ProjetoEscolar\obj\Debug\net5.0\ProjetoEscolar.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\NewCrudAluno-main\ProjetoEscolar\obj\Debug\net5.0\ProjetoEscolar.genruntimeconfig.cache
